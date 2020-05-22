@@ -2,13 +2,15 @@
 
 ## Exercise I
 
-a)O(n) exponentially
+a)O(n) the time that it will take to run this function will be in direct proportion of the size of input.  
 
 
-b)O(n log n)
+b)O(log n) the code is using one while loop. As the size of the input increases it will increase at a slow rate since only one loop is present. 
+ 
 
 
-c)O(n)
+c)O(n) the code is performing one recursive function. As the input increases it will always grow at the same rate.
+
 
 ## Exercise II
 O(n)
